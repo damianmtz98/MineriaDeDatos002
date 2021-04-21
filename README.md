@@ -1,0 +1,8 @@
+{MAPA MENTAL 1} (https://github.com/damianmtz98/MineriaDeDatos002/blob/main/MapaMental_1_%7B1735532).pdf)
+{PHYTON BASICO}  (https://github.com/damianmtz98/MineriaDeDatos002/blob/main/PhytonBasico_1735532.ipynb)
+{PRESENTACION 1} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/Presentacion_OUTLIERS_Equipo8.pdf)
+{LIMPIEZA DE DATOS} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/Ej_Limpieza_Equipo8.ipynb)
+{VANCE 1, PIA EQUIPO 8} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/Avance1_PIA_Equipo8.ipynb)
+{MAPA MENTAL 2} (https://github.com/victothugocantu/mineria-de-datos/blob/main/MAPA%20MENTAL%202%20PDF.pdf)
+{PRACTICA VISUALIZACION} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/Visualizacion_Equipo8.ipynb)
+{AVANCE PIA  EQUIPO 8} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/AvancePIA_II_Grupo02_Equipo8%20.ipynb)
