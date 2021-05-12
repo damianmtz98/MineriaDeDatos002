@@ -6,3 +6,5 @@
 {MAPA MENTAL 2} (https://github.com/victothugocantu/mineria-de-datos/blob/main/MAPA%20MENTAL%202%20PDF.pdf)
 {PRACTICA VISUALIZACION} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/Visualizacion_Equipo8.ipynb)
 {AVANCE PIA  EQUIPO 8} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/AvancePIA_II_Grupo02_Equipo8%20.ipynb)
+{CARTEL PIA AVANCE} ( https://github.com/JavIer-SS/Mineria--Datos/blob/main/Primer%20Avance%20Poster%20PIA.pdf)
+{CARTEL FINAL} (https://github.com/JavIer-SS/Mineria--Datos/blob/main/P%C3%B3ster%20%20PIA%20EQUIPO%208%20%20LA%20LOCAL%C3%8DA%20DE%20LA%20SELECCI%C3%93N%20MEXICANA.pdf)
